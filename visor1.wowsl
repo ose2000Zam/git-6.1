@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>18</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>visor1</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>blast</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/geometric/</ImageTemplate>
+            <ImageTemplateName>Geometric</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/LANIX-11/Documents/dam/tercer parcil/app6/wowslider.html</PublishFileName>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPath>C:/Users/LANIX-11/Documents/dam/tercer parcil/app6</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#ffffff</TemplateColor>
+            <TemplateFont>Open Sans</TemplateFont>
+            <TemplateName>geometric</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/LANIX-11/Documents/dam/tercer parcil/app6/imagenes/5 de mayo 1.jpg</url>
+                <filesize>80076</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/LANIX-11/Documents/dam/tercer parcil/app6/imagenes/batalla5mayo2.jpg</url>
+                <filesize>57002</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/LANIX-11/Documents/dam/tercer parcil/app6/imagenes/batalla-5-de-mayo.jpg</url>
+                <filesize>72993</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/LANIX-11/Documents/dam/tercer parcil/app6/imagenes/batallaA2.jpg</url>
+                <filesize>13572</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/LANIX-11/Documents/dam/tercer parcil/app6/imagenes/descarga (1).jpg</url>
+                <filesize>10031</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/LANIX-11/Documents/dam/tercer parcil/app6/imagenes/descarga.jpg</url>
+                <filesize>10168</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/LANIX-11/Documents/dam/tercer parcil/app6/imagenes/batallaA1.jpg</url>
+                <filesize>9091</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/LANIX-11/Documents/dam/tercer parcil/app6/imagenes/images (1).jpg</url>
+                <filesize>10546</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
